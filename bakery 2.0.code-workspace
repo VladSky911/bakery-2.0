@@ -1,0 +1,33 @@
+{
+  "folders": [
+	{
+		"name": "bakery 2.0",
+		"path": "."
+	},
+	{
+		"name": "css",
+		"path": "../bakery/css"
+	},
+	{
+		"name": "fonts",
+		"path": "../bakery/fonts"
+	},
+	{
+		"name": "image",
+		"path": "../bakery/image"
+	},
+	{
+		"name": "images",
+		"path": "../bakery/images"
+	},
+	{
+		"name": "js",
+		"path": "../bakery/js"
+	},
+	{
+		"name": "scss",
+		"path": "../bakery/scss"
+	}
+],
+  "settings": {}
+}
